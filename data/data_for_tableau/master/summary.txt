@@ -1,0 +1,1 @@
+This file is the aggregation of all presidential elections starting from 2008 and ending with 2020.
