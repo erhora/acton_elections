@@ -8,7 +8,7 @@ Everything in this main directory was used in some capacity to process the code 
 <body>
   <ul>
     <li><em>annual_election_2023.R</em>: This parsed the pdf results from the 2023 Annual Town Election into a tibble.</li>
-    <li><em>cleaned_data_mapping.R</em>: This file was a cleaned version of `scrap.R</em> in which I brainstormed the type of plots I could make in Tableau before moving my data into Tableau (this helped guide how I cleaned my data before uploading them to Tableau following the `cleaning_data_for_t.R</em> process).</li>
+    <li><em>cleaned_data_mapping.R</em>: This file was a cleaned version of <em>scrap.R</em> in which I brainstormed the type of plots I could make in Tableau before moving my data into Tableau (this helped guide how I cleaned my data before uploading them to Tableau following the <em>cleaning_data_for_t.R</em> process).</li>
     <li><em>cleaning_data_for_t.R</em>: Once each of the election results were cleaned, this R file compiled the data and calculated metrics such as voter turnout, the percentage of votes cast that a candidate won, and the percentage of registered voters that a candidate won.</li>
     <li><em>clipping_acton.R</em>: I used the pairwise clip to trim the 2019 ACS Census data down to the size of Acton.</li>
     <li><em>midterms_2022.R</em>: This parsed the pdf results from the 2022 Midterm Election as well as local candidates into a tibble.</li>
