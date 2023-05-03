@@ -2,6 +2,7 @@
 This repository contains my work for processing the data and visualizing the results of elections in Acton, MA.
 
 <a href="https://public.tableau.com/app/profile/elizabeth.hora/viz/ActonElectionAnalysis/RunningforOfficeinActonMA">Tableau Storyboard: Acton Election Analysis</a>
+<br>
 <a href="https://public.tableau.com/app/profile/elizabeth.hora/viz/ActonMA2023AnnualTownElection/TownofActonElectionResults2023">Acton, MA 2023 Annual Town Election</a>
 
 
