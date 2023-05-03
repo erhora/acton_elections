@@ -1,0 +1,7 @@
+I have a couple distinctions between the data in this folder:
+
+- Jumbled about are my shapefiles and pdf downloads from the town of Acton, MA.
+
+- r_processed: These are the semi-cleaned pdf downloads (going from a block of text to a tibble).
+
+- data_for_tableau: The r_processed data were cleaned even further, and now they are ready for Tableau.
